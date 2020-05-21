@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The coronavirus pandemic started in live animal market in China in late December 2019.  What started as a few infections within the Wuhan Province quickly grew to be the most widespread pandemic the world has seen in a century. As of May 21st 2020, there are over 5 million cases worldwide and over 1.5 million cases in the United States alone ( [Source](https://www.worldometers.info/coronavirus/)). 
+The coronavirus pandemic started in live animal market in China in late December 2019.  What started as a few infections within the Wuhan Province quickly grew to be the most widespread pandemic the world has seen in a century. As of May 21st 2020, there are over 5 million cases worldwide and over 1.5 million cases in the United States alone ( Source: https://www.worldometers.info/coronavirus/). 
 
 In order to assess the damage done by the pandemic it is important to understand which communities are most affected by it. This project aims to identify those communities within the United States through statistical correlation and build a model that can predict whether a county is set to have a high or low risk of infections based on demographic data. 
 
